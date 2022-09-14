@@ -1,3 +1,2 @@
-# NEWSGRID
-This is a sports website.
-This website only focuses on sport news and information therefore it is purely for a sports fan
+#NEWSGRID
+This is a website that is purely for sports fans,which provides all sport information and the lastest news.
